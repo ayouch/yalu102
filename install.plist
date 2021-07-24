@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>place.ipa</string>
+					<string>https://archive.org/download/com.b3g.wafacash.jibi_1200782472_v1.8.8_358/com.b3g.wafacash.jibi_1200782472_v1.8.8_358.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -29,7 +29,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.netflix.Netflix</string>
+				<string>com.b3g.wafacash.jibi</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
